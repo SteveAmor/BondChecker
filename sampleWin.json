@@ -1,0 +1,18 @@
+{
+  "status": "win",
+  "header": "Congratulations!",
+  "tagline": "You've won £125 in November 2024's draw",
+  "holder_number": "123456789",
+  "history": [
+    {
+      "prize": "100",
+      "bond_number": "xxxxxxxxxxx",
+      "date": "November 2024"
+    },
+    {
+      "date": "November 2024",
+      "bond_number": "xxxxxxxxxxx",
+      "prize": "25"
+    }
+  ]
+}

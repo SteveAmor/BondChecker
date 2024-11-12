@@ -1,0 +1,13 @@
+{
+  "status": "no_win",
+  "header": "Sorry you didn't win",
+  "tagline": "Good luck next month",
+  "holder_number": "123456789",
+  "history": [
+    {
+      "prize": "0",
+      "bond_number": "0",
+      "date": ""
+    }
+  ]
+}
