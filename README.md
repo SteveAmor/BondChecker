@@ -4,7 +4,7 @@
 
 NS&I update their online prize checker the day after the first working day of each month - although, it's not clear by exactly what time of day (but it is early in the morning).
 
-NS&I send out an email if you have won a few days afterwards (4th day after the first working day?) but they don't tell you how much you have won.  You don't get an email if you have not won anything.
+NS&I send out an email if you have won a few days afterwards (4th day after the first working day?) but they don't tell you how much you have won.  You don't get an email if you didn't win anything that month.
 
 The API is not published but is pretty simple and appears established.
 
